@@ -1,8 +1,9 @@
 public class HelloJava {
 	
 	public static void main(String[] args) {
-
-		System.out.println("Hello Java sunny ");
+		
+		System.out.println("Hello Java mrinal ///");
+		System.out.println("Hello");
 		  
 		  
 	
